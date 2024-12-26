@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_assignment_3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|solutionrelative:oop_assignment_3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_assignment_3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|solutionrelative:oop_assignment_3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_assignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|solutionrelative:oop_assignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_assignment_3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|solutionrelative:oop_assignment_3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_assignment_3\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|solutionrelative:oop_assignment_3\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_assignment_3\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5EC17-983B-4A78-B60D-409E57D3B566}|OOP_Assignment_3\\OOP_Assignment_3.csproj|solutionrelative:oop_assignment_3\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_session3_demo\\interface\\example03\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|solutionrelative:oop_session3_demo\\interface\\example03\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_session3_demo\\interface\\example03\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|solutionrelative:oop_session3_demo\\interface\\example03\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_session3_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|solutionrelative:oop_session3_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_session3_demo\\interface\\example03\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|solutionrelative:oop_session3_demo\\interface\\example03\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_session3_demo\\interface\\example03\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|solutionrelative:oop_session3_demo\\interface\\example03\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|c:\\web\\backend\\c#\\02 oop\\session 3\\oop_session3\\oop_session3_demo\\interface\\example03\\veichle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB897092-F0E2-4522-AB05-AEE204F798C6}|OOP_Session3_Demo\\OOP_Session3_Demo.csproj|solutionrelative:oop_session3_demo\\interface\\example03\\veichle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment_3\\Rectangle.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\Rectangle.cs*",
+              "RelativeToolTip": "OOP_Assignment_3\\Rectangle.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:17:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment_3\\Circle.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\Circle.cs",
+              "RelativeToolTip": "OOP_Assignment_3\\Circle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:17:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\IRectangle.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment_3\\IRectangle.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\IRectangle.cs",
+              "RelativeToolTip": "OOP_Assignment_3\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:13:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\ICircle.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment_3\\ICircle.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\ICircle.cs",
+              "RelativeToolTip": "OOP_Assignment_3\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:12:58.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\IShape.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment_3\\IShape.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\IShape.cs",
+              "RelativeToolTip": "OOP_Assignment_3\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:11:55.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Assignment_3\\Program.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Assignment_3\\Program.cs",
+              "RelativeToolTip": "OOP_Assignment_3\\Program.cs",
+              "ViewState": "AgIAACMAAADAzMzMzMwkwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:57:27.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\Car.cs",
+              "RelativeDocumentMoniker": "OOP_Session3_Demo\\Interface\\Example03\\Car.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\Car.cs",
+              "RelativeToolTip": "OOP_Session3_Demo\\Interface\\Example03\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:15:25.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\Airplane.cs",
+              "RelativeDocumentMoniker": "OOP_Session3_Demo\\Interface\\Example03\\Airplane.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\Airplane.cs",
+              "RelativeToolTip": "OOP_Session3_Demo\\Interface\\Example03\\Airplane.cs",
+              "ViewState": "AgIAAA4AAAAAMzMzMzPzvxsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:13:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFlyable.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\IFlyable.cs",
+              "RelativeDocumentMoniker": "OOP_Session3_Demo\\Interface\\Example03\\IFlyable.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\IFlyable.cs",
+              "RelativeToolTip": "OOP_Session3_Demo\\Interface\\Example03\\IFlyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:12:28.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Veichle.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\Veichle.cs",
+              "RelativeDocumentMoniker": "OOP_Session3_Demo\\Interface\\Example03\\Veichle.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\Veichle.cs",
+              "RelativeToolTip": "OOP_Session3_Demo\\Interface\\Example03\\Veichle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:11:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\IMovable.cs",
+              "RelativeDocumentMoniker": "OOP_Session3_Demo\\Interface\\Example03\\IMovable.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Interface\\Example03\\IMovable.cs",
+              "RelativeToolTip": "OOP_Session3_Demo\\Interface\\Example03\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:10:46.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Session3_Demo\\Program.cs",
+              "ToolTip": "C:\\Web\\Backend\\C#\\02 OOP\\Session 3\\OOP_Session3\\OOP_Session3_Demo\\Program.cs",
+              "RelativeToolTip": "OOP_Session3_Demo\\Program.cs",
+              "ViewState": "AgIAAKEAAAAAODMzMzPzv6gAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:02:05.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

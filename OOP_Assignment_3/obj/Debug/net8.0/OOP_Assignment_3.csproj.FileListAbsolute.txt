@@ -1,0 +1,14 @@
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\bin\Debug\net8.0\OOP_Assignment_3.exe
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\bin\Debug\net8.0\OOP_Assignment_3.deps.json
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\bin\Debug\net8.0\OOP_Assignment_3.runtimeconfig.json
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\bin\Debug\net8.0\OOP_Assignment_3.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\bin\Debug\net8.0\OOP_Assignment_3.pdb
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\OOP_Assignment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\OOP_Assignment_3.AssemblyInfoInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\OOP_Assignment_3.AssemblyInfo.cs
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\OOP_Assignment_3.csproj.CoreCompileInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\OOP_Assignment_3.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\refint\OOP_Assignment_3.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\OOP_Assignment_3.pdb
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\OOP_Assignment_3.genruntimeconfig.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session3\OOP_Assignment_3\obj\Debug\net8.0\ref\OOP_Assignment_3.dll
